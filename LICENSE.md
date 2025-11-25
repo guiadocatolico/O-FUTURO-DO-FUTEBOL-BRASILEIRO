@@ -1,0 +1,1 @@
+para ussr esse código tenha a certeza que você tem a responsabilidade de que você saiba que o index.html e o app.py, são arquivos extremamentes perigosos em mãos erradas! Também é necessário que o usuário não mude o firebase!
